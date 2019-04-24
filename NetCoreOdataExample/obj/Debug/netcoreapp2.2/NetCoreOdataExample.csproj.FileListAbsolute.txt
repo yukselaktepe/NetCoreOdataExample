@@ -1,0 +1,14 @@
+D:\Projeler\NetCoreOdataExample\NetCoreOdataExample\bin\Debug\netcoreapp2.2\NetCoreOdataExample.deps.json
+D:\Projeler\NetCoreOdataExample\NetCoreOdataExample\bin\Debug\netcoreapp2.2\NetCoreOdataExample.runtimeconfig.json
+D:\Projeler\NetCoreOdataExample\NetCoreOdataExample\bin\Debug\netcoreapp2.2\NetCoreOdataExample.runtimeconfig.dev.json
+D:\Projeler\NetCoreOdataExample\NetCoreOdataExample\bin\Debug\netcoreapp2.2\NetCoreOdataExample.dll
+D:\Projeler\NetCoreOdataExample\NetCoreOdataExample\obj\Debug\netcoreapp2.2\NetCoreOdataExample.csproj.CoreCompileInputs.cache
+D:\Projeler\NetCoreOdataExample\NetCoreOdataExample\obj\Debug\netcoreapp2.2\NetCoreOdataExample.RazorAssemblyInfo.cache
+D:\Projeler\NetCoreOdataExample\NetCoreOdataExample\obj\Debug\netcoreapp2.2\NetCoreOdataExample.RazorAssemblyInfo.cs
+D:\Projeler\NetCoreOdataExample\NetCoreOdataExample\obj\Debug\netcoreapp2.2\NetCoreOdataExample.AssemblyInfoInputs.cache
+D:\Projeler\NetCoreOdataExample\NetCoreOdataExample\obj\Debug\netcoreapp2.2\NetCoreOdataExample.AssemblyInfo.cs
+D:\Projeler\NetCoreOdataExample\NetCoreOdataExample\obj\Debug\netcoreapp2.2\NetCoreOdataExample.RazorTargetAssemblyInfo.cache
+D:\Projeler\NetCoreOdataExample\NetCoreOdataExample\bin\Debug\netcoreapp2.2\NetCoreOdataExample.pdb
+D:\Projeler\NetCoreOdataExample\NetCoreOdataExample\obj\Debug\netcoreapp2.2\NetCoreOdataExample.dll
+D:\Projeler\NetCoreOdataExample\NetCoreOdataExample\obj\Debug\netcoreapp2.2\NetCoreOdataExample.pdb
+D:\Projeler\NetCoreOdataExample\NetCoreOdataExample\obj\Debug\netcoreapp2.2\NetCoreOdataExample.csprojAssemblyReference.cache
